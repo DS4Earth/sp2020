@@ -2,10 +2,10 @@
 # Push HTML files to gh-pages automatically.
 
 # Fill this out with the correct org/repo
-ORG=geo-python
-REPO=site
+ORG=DS4Earth
+REPO=sp2020
 # This probably should match an email for one of your users.
-EMAIL=david.whipp@helsinki.fi
+EMAIL=bwhite@unc.edu
 
 set -e
 
@@ -17,7 +17,7 @@ cd gh-pages
 # Update git configuration so I can push.
 if [ "$1" != "dry" ]; then
     # Update git config.
-    git config user.name "Travis Builder"
+    git config user.name "bwhite-unc"
     git config user.email "$EMAIL"
 fi
 

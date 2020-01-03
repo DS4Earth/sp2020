@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=source
 set BUILDDIR=build
-set SPHINXPROJ=Geo-Python
+set SPHINXPROJ=DS4Earth
 
 if "%1" == "" goto help
 
