@@ -56,40 +56,41 @@ We will meet every Monday from 1:25-4:25
          * Example: logistic regression
          * Scikit-learn
          * Group presentations
-   * - 1/27
+   * - 2/24
      - Machine learning alorithms I:
          * Random forest
          * Feature importance
          * Group presentations
-   * - 1/27
+   * - 3/2
      - Machine learning algoriths II:
          * XGBoost
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 3/16
+     - Intro to neural networks:
+         * Convolutional neural nets
+         * Imagenet, Res-nets
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 3/23
+     - Neural nets continued:
+         * Deep learning
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 3/30
+     - Unsupervised learning:
+         * Generative Adversarial Networks (GANs)
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 4/6
+     - GANs continued:
+         * CycleGAN
+         * BigGAN
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 4/13
+     - TBA:
          * Group presentations
+   * - 4/20
+     - TBA:
+         * Peer review papers
+   * - 4/30
+     - Final group presentations
 
    
      
