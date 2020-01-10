@@ -21,7 +21,7 @@ Schedule
 We will meet every Monday from 1:25-4:25
 
 .. list-table:: Schedule
-   :widths: 5 10
+   :widths: 4 8
    :header-rows: 1
 
    * - Week
