@@ -8,7 +8,7 @@
 Welcome to COMP 590 Data Science for Earth, Spring 2020!
 ========================================================
 
-**Data Science for Earth** This course will introduce the tools of data science and machine learning for analysing the earth and its natural and human systems. 
+This course will introduce the tools of data science and machine learning for analysing the earth and its natural and human systems. 
 
 Course format
 -------------
@@ -21,6 +21,7 @@ Schedule
 We will meet every Monday from 1:25-4:25
 
 .. list-table:: Schedule
+   :widths: 5 10
    :header-rows: 1
 
    * - Week
