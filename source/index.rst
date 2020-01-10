@@ -20,8 +20,13 @@ Schedule
 
 We will meet every Monday from 1:25-4:25
 
+<<<<<<< HEAD
 .. list-table:: ''
    :widths: 5 10
+=======
+.. list-table:: _
+   :widths: 2 8
+>>>>>>> 07c83414f778adc946e1849d50196bc0b8ee0b7c
    :header-rows: 1
 
    * - Week
@@ -44,50 +49,53 @@ We will meet every Monday from 1:25-4:25
          * Group presentations
    * - 2/10
      - Intro to machine learning:
+         * Supervised learning: train/test concept
          * Classification and regression
          * Optimization, gradient descent
          * Scikit-learn
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 2/17
+     - Machine learning:
+         * Bias-variance tradeoff and over-fitting
+         * Regularization
+         * Example: logistic regression
+         * Scikit-learn
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 2/24
+     - Machine learning alorithms I:
+         * Random forest
+         * Feature importance
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 3/2
+     - Machine learning algoriths II:
+         * XGBoost
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 3/16
+     - Intro to neural networks:
+         * Convolutional neural nets
+         * Imagenet, Res-nets
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 3/23
+     - Neural nets continued:
+         * Deep learning
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 3/30
+     - Unsupervised learning:
+         * Generative Adversarial Networks (GANs)
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 4/6
+     - GANs continued:
+         * CycleGAN
+         * BigGAN
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 4/13
+     - TBA:
          * Group presentations
+   * - 4/20
+     - TBA:
+         * Peer review papers
+   * - 4/30
+     - Final group presentations
 
    
      
