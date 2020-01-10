@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. figure:: img/banner/GeoPython_banner.png
+.. figure:: img/banner/Top_banner.png
 
 Welcome to COMP 590 Data Science for Earth, Spring 2020!
 ========================================================
