@@ -5,65 +5,41 @@
 
 .. figure:: img/banner/GeoPython_banner.png
 
-Welcome to Geo-Python 2019!
+Welcome to COMP 590 Data Science for Earth, Spring 2020!
 ===========================
 
-The **Geo-Python** course teaches you the basic concepts of programming using the Python programming language in a format that is easy to learn and understand (no previous programming experience required).
-Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python programming (see schedule & learning goals).
-Course is organized by the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__ at the University of Helsinki.
+**Data Science for Earth** This course will introduce the tools of data science and machine learning for analysing the earth and its natural and human systems. 
 
 Course format
 -------------
 
-The majority of this course will be spent in front of a computer learning to program in the Python language and working on exercises.
-During Teaching Period I, the `Automating GIS processes <https://autogis.github.io>`_ and `Introduction to Quantitative Geology <https://introqg.github.io>`_
-courses will meet together and focus on learning the basic concepts of programming using Python programming language.
-
-The computer exercises will focus on developing basic programming skills using the Python language and applying those skills to various problems.
-Typical exercises will involve a brief introduction followed by topical computer-based tasks. At the end of the exercises, you may be asked to submit answers
-to relevant questions, some related plots, and/or Python codes you have written or used. You are encouraged to discuss and work together with other students
-on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
+This course will have two concurrent goals:  1)  introduce students to the tools of data science and basic machine learning (identifying and processing data, cleaning and preparing data for analysis, setting up problems including supervised/unsupervised learning, regression, and classification, optimization and hyperparameter analysis, and specific techniques such as random forest, gradient boosting and neural networks. And  2) introduce students to the analysis of geospatial data sets, with an introduction to satellite data products (Landsat, Sentinel, GOES, etc.), compute platforms such as Google Earth Engine and Microsoft Azure, and data frameworks such as Xarray and pandas. We will use scientific python (Jupyter Notebooks mainly) and introduce students to these tools at a basic level.
 
 Schedule
 --------
 
-Lessons and practical exercise sessions are held at the University of Helsinki during the autumn semester. Please find teaching dates and rooms under :doc:`general info <course-info/course-info>`).
-The course runs for seven weeks, and **we publish updated course materials at these pages every Wednesday morning before the lesson.**
-Themes for each week are listed below. Read more about the weekly :doc:`learning goals in here <course-info/learning-goals>`.
+We will meet every Monday from 1:25-4:25
 
-+----------+----------------------+
-| Week     | Theme                |
-+==========+======================+
-|**1**     | Basic concepts of    |
-|          | Python and computer  |
-|          | programs             |
-|          |                      |
-+----------+----------------------+
-|**2**     | Diving into Python   |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-|**3**     | Repeating tasks      |
-|          | and making decisions |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-|**4**     | Creating and using   |
-|          | functions            |
-|          |                      |
-+----------+----------------------+
-|**5**     | Data analysis        |
-|          | Part I               |
-|          |                      |
-+----------+----------------------+
-|**6**     | Data analysis        |
-|          | Part II +            |
-|          | Dealing with errors  |
-+----------+----------------------+
-|**7**     | Data visualization   |
-|          |                      |
-|          |                      |
-+----------+----------------------+
+.. list-table:: Schedule
+   :header-rows: 1
+   :widths: 7 20 20
+   :stub-columns: 1
+
+   *  -  Week
+      -  Topics
+      -  Resources
+   *  -  1/13
+      -  Course Introductions
+            Intro to data science
+            Intro to geospatial data
+            List of potential project topics
+            Form groups by interest area
+            Group Python activity
+      -  Jupyter notebooks Intro to Python
+            Python / Numpy tutorial
+            Python / Numpy tutorial ipynb
+            Intro to Git/Github
+      ...
 
 .. admonition:: Open Access!
 
