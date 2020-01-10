@@ -20,7 +20,7 @@ Schedule
 
 We will meet every Monday from 1:25-4:25
 
-.. list-table:: Schedule
+.. list-table:: ''
    :widths: 5 10
    :header-rows: 1
 
