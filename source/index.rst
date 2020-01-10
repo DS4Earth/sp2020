@@ -44,24 +44,26 @@ We will meet every Monday from 1:25-4:25
          * Group presentations
    * - 2/10
      - Intro to machine learning:
+         * Supervised learning: train/test concept
          * Classification and regression
          * Optimization, gradient descent
          * Scikit-learn
          * Group presentations
-   * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+   * - 2/17
+     - Machine learning:
+         * Bias-variance tradeoff and over-fitting
+         * Regularization
+         * Example: logistic regression
+         * Scikit-learn
          * Group presentations
    * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+     - Machine learning alorithms I:
+         * Random forest
+         * Feature importance
          * Group presentations
    * - 1/27
-     - Exploring data:
-         * Pandas for tabular data, time-series
-         * Matplotlib for plotting and visualization
+     - Machine learning algoriths II:
+         * XGBoost
          * Group presentations
    * - 1/27
      - Exploring data:
