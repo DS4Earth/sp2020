@@ -6,7 +6,7 @@
 .. figure:: img/banner/GeoPython_banner.png
 
 Welcome to COMP 590 Data Science for Earth, Spring 2020!
-===========================
+========================================================
 
 **Data Science for Earth** This course will introduce the tools of data science and machine learning for analysing the earth and its natural and human systems. 
 
@@ -22,12 +22,10 @@ We will meet every Monday from 1:25-4:25
 
 .. list-table:: Schedule
    :header-rows: 1
-   :widths: 7 20 20
-   :stub-columns: 1
+   :widths: 7 20
 
    *  -  Week
       -  Topics
-      -  Resources
    *  -  1/13
       -  Course Introductions
             Intro to data science
@@ -35,11 +33,7 @@ We will meet every Monday from 1:25-4:25
             List of potential project topics
             Form groups by interest area
             Group Python activity
-      -  Jupyter notebooks Intro to Python
-            Python / Numpy tutorial
-            Python / Numpy tutorial ipynb
-            Intro to Git/Github
-    ...
+     
 
 .. admonition:: Open Access!
 
