@@ -39,7 +39,7 @@ We will meet every Monday from 1:25-4:25
             Python / Numpy tutorial
             Python / Numpy tutorial ipynb
             Intro to Git/Github
-      ...
+    ...
 
 .. admonition:: Open Access!
 
