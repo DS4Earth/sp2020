@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Geo-Python'
-copyright = '2019, D. Whipp, H. Tenkanen and V. Heikinheimo, Department of Geosciences and Geography, University of Helsinki'
-author = 'David Whipp, Henrikki Tenkanen and Vuokko Heikinheimo'
+project = 'DS4Earth'
+copyright = '2020, B. White, Department of Marine Sciences, UNC Chapel Hill'
+author = 'Brian White'
 
 # The short X.Y version
-version = '2019'
+version = '2020'
 # The full version, including alpha/beta/rc tags
-release = 'site'
+release = 'sp2020'
 
 
 # -- General configuration ---------------------------------------------------
@@ -41,15 +41,15 @@ release = 'site'
 extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
-    'sphinxcontrib.googleanalytics',
-    'nbsphinx',
+    #'sphinxcontrib.googleanalytics',
+    #'nbsphinx',
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
 ]
 
 # Google Analytics ID to enable tracking of site traffic
-googleanalytics_id = "UA-105019106-1"
-googleanalytics_enabled = True
+#googleanalytics_id = "UA-105019106-1"
+#googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -126,8 +126,8 @@ html_context = {
     'display_github': True,
     # Set the following variables to generate the resulting github URL for each page.
     # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
-    'github_user': 'geo-python',
-    'github_repo': 'site',
+    'github_user': 'DS4Earth',
+    'github_repo': 'sp2020',
     'github_version': 'master/',
     'conf_py_path': '/source/'
 }
@@ -162,8 +162,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Geo-Python.tex', 'Geo-Python Documentation',
-     'H. Tenkanen and D. Whipp', 'manual'),
+    (master_doc, 'DS4Earch.tex', 'Geo-Python Documentation',
+     'B. White', 'manual'),
 ]
 
 
@@ -172,7 +172,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'geo-python', 'Geo-Python Documentation',
+    (master_doc, 'DS4Earch', 'DS4Earth Documentation',
      [author], 1)
 ]
 
@@ -183,8 +183,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Geo-Python', 'Geo-Python Documentation',
-     author, 'Geo-Python', 'One line description of project.',
+    (master_doc, 'DS4Earch', 'DS4Earch Documentation',
+     author, 'DS4Earch', 'One line description of project.',
      'Miscellaneous'),
 ]
 
