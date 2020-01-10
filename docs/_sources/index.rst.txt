@@ -22,17 +22,73 @@ We will meet every Monday from 1:25-4:25
 
 .. list-table:: Schedule
    :header-rows: 1
-   :widths: 7 20
 
-   *  -  Week
-      -  Topics
-   *  -  1/13
-      -  Course Introductions
-            Intro to data science
-            Intro to geospatial data
-            List of potential project topics
-            Form groups by interest area
-            Group Python activity
+   * - Week
+     - Topics
+   * - 1/13
+     - Course Introductions:
+         * Intro to data science
+         * Intro to geospatial data
+         * Form groups by interest area
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 2/3
+     - Geospatial visualization:
+         * Xarray
+         * Cartopy
+         * Google Earth Engine
+         * Group presentations
+   * - 2/10
+     - Intro to machine learning:
+         * Classification and regression
+         * Optimization, gradient descent
+         * Scikit-learn
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+   * - 1/27
+     - Exploring data:
+         * Pandas for tabular data, time-series
+         * Matplotlib for plotting and visualization
+         * Group presentations
+
+   
      
 
 .. admonition:: Open Access!
@@ -45,11 +101,6 @@ We will meet every Monday from 1:25-4:25
     The materials are written in a way that you can follow them step by step exactly as they are written, as long as you use the cloud computing resources that
     we provide for you (namely JupyterLab Notebooks using Binder or CSC Cloud computing resources). Read more about our cloud computing environment from :doc:`here <lessons/L1/course-environment-components>`.
     If you work from your own computer, **you need to adjust the file paths to the data** accordingly.
-
-.. admonition:: For teachers
-
-    If you would like to use these materials for your own teaching or develop them further, we highly support that.
-    Please read more about how to do it from :doc:`our licensing terms<course-info/licensing>`.
 
 .. toctree::
     :maxdepth: 2
