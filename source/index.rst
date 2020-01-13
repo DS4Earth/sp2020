@@ -18,7 +18,7 @@ This course will have two concurrent goals:  1)  introduce students to the tools
 Schedule
 --------
 
-We will meet every Monday from 1:25-4:25
+We will meet every Monday from 1:25-4:25 in Carolina Hall 220
 
 .. list-table:: ''
    :widths: 5 10
