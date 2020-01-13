@@ -93,18 +93,6 @@ We will meet every Monday from 1:25-4:25
      - Final group presentations
 
    
-     
-
-.. admonition:: Open Access!
-
-    The course is **open for everyone**. The aim of this course is to share the knowledge and help people to get started with their journey for doing science more efficiently and in a reproducible manner
-    using Python programming.
-
-.. admonition:: Step by step instructions with cloud computing!
-
-    The materials are written in a way that you can follow them step by step exactly as they are written, as long as you use the cloud computing resources that
-    we provide for you (namely JupyterLab Notebooks using Binder or CSC Cloud computing resources). Read more about our cloud computing environment from :doc:`here <lessons/L1/course-environment-components>`.
-    If you work from your own computer, **you need to adjust the file paths to the data** accordingly.
 
 .. toctree::
     :maxdepth: 2
