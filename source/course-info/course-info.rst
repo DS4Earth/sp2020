@@ -5,7 +5,7 @@ This course is an introduction to data science and machine learning for applicat
 
 Course materials are freely available online for anyone interested in the course contents.
 
-Course meetings in Period I
+Course meetings
 ---------------------------
 
 - Lectures:
@@ -22,7 +22,7 @@ Instructor
   * Office: Venable/Murray Hall 3117e 
 
 Learning Assistants
-~~~~~~~~~~~~~~~~~
+-------------------
 
 * Izzi Hinks
 * Carly Richardson
@@ -30,7 +30,7 @@ Learning Assistants
 Course websites
 ---------------
 
-- Course sites for Period I (Introduction to Python programming):
+- Course site:
 
   - Main course site: `<https://ds4earth.github.io/sp2020>`_
 
