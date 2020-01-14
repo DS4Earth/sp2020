@@ -1,26 +1,13 @@
 # Python for Scientific Computing #
 
-Workshop held at [Lamont Doherty Earth Observatory](http://ldeo.columbia.edu) on Aug. 21, 2015.
-
-## Attendance Data ##
-
-Affiliation | Count
-------------|------
-LDEO Research Scientist | 15
-DEES Grad Student | 14
-LDEO/IRI Postdoc |  7
-DEES / LDEO Faculty | 7
-APAM Postdoc | 2
-APAM Grad Student | 2
-Other Postdoc | 2
-Other | 10
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/04_xray_sst_blank.ipynb)
 
 ## Course Materials as IPython Notebooks ##
 
-* [Lesson 1: Basic Python](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/01_core_python.ipynb)
-* [Lesson 2: Numpy and Matplotlib](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/02_numpy_and_matplotlib.ipynb)
-* [Lesson 3: Pandas with Earthquake Data](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/03_pandas_earthquake.ipynb)
-* [Lesson 4: xray and Pacific SSTs](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/04_xray_sst.ipynb)
+* Lesson 1: Basic Python [Jupyter NB Viewer](http://nbviewer.ipython.org/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/01_core_python.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/01_core_python.ipynb)
+* Lesson 2: Numpy and Matplotlib [Jupyter NB Viewer]](http://nbviewer.ipython.org/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/02_numpy_and_matplotlib.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/02_numpy_and_matplotlib.ipynb)
+* Lesson 3: Pandas with Earthquake Data [Jupyter NB Viewer]](http://nbviewer.ipython.org/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/03_pandas_earthquake.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/03_pandas_earthquake.ipynb)
+* Lesson 4: xray and Pacific SSTs [Jupyter NB Viewer]](http://nbviewer.ipython.org/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/04_xray_sst.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/rabernat_nbs/one_day_worskhop/04_xray_sst.ipynb)
 
 ## Data Download Links ##
 
