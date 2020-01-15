@@ -1,3 +1,5 @@
 fsspec
 xmitgcm>=0.4.1
 gcsfs>=0.6.0
+xarray
+netcdf4
