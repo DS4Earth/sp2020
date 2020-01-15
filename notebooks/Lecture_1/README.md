@@ -1,7 +1,7 @@
 # Lecture 1: Intro to Python and Numpy #
 
 
-* Intro to Python (from Stanford CS231n) [Jupyter nbviewer](http://nbviewer.ipython.org/github/DS4Earth/sp2020/blob/master/notebooks/Lecture_1/c228_python_tutorial.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/Lecture_1/c228_python_tutorial.ipynb)
+* Intro to Python (from Stanford CS231n) [Jupyter nbviewer](http://nbviewer.ipython.org/github/DS4Earth/sp2020/blob/master/notebooks/Lecture_1/c228_python_tutorial.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/Lecture_1/cs228_python_tutorial.ipynb)
 
 * Intro to Python (from Ryan Abernathey's Python for Scientific Computing course at Columbia) [Jupyter nbviewer](http://nbviewer.ipython.org/github/DS4Earth/sp2020/blob/master/notebooks/Lecture_1/intro_to_python.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DS4Earth/sp2020/blob/master/notebooks/Lecture_1/intro_to_python.ipynb)
 
