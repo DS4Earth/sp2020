@@ -9,17 +9,17 @@ During this course we will use `Slack <http://slack.com>`__ for discussion and q
 Accessing the workspace in Slack
 --------------------------------
 
-We will send an invitation link for all enrolled students to the Slack Team called ``geopython2019``.
+We will send an invitation link for all enrolled students to the Slack Team called ``COMP590.800``.
 Before you can start using Slack, you should create a new account for Slack (if you don't have one already) and accept the invitation you have received.
 
 **After accepting the invitation, you can access the course Slack team from following link:**
 
-  * `<http://geopython2019.slack.com>`__
+  * `<http://comp590800.slack.com>`__
 
 Overview of Slack
 -----------------
 
-Using Slack for communication is easy. It works in a similar manner as any chatting application (such as WhatsApp). However, the benefits of Slack are:
+Using Slack for communication is easy. It works in a similar manner as any chatting application. However, the benefits of Slack are:
 
   - the discussions are grouped into separate topics (called ``channels``) that keeps discussions well organized
   - easy to find stuff with good search functionality
@@ -34,7 +34,6 @@ Basic usage of Slack
 When entering to our Slack Team you should see something like following where you have:
 
  - all channels listed on the left panel
- - on the right you have the selected channel (1-lesson) where you can start discussing about the contents of the lesson (lesson 1 in this case)
 
 .. figure:: img/slack-basic-view.png
    :alt: Basic view of Slack
@@ -87,7 +86,7 @@ Here we have few general guidelines for using Slack to keep things well organize
   1. **You should always select the right channel for your question!**
 
     - If you have question related to week 2 lesson or exercise, you make your question in channel ``week-2``.
-    - If you want to share a funny GIF you found online, you can post it into channel ``random``.
+    - If you want to share a relevant link you found online, you can post it into channel ``random``.
 
   2. Use threads to maintain the discussion of specific topic under the same question / comment.
 
@@ -95,8 +94,6 @@ Here we have few general guidelines for using Slack to keep things well organize
 
   4. **Discuss and comment!** If you see a question and you know how to help, we encourage you to comment and help your friend.
 
-  5. **HOWEVER: DON'T PROVIDE READY ANSWERS** in the discussion (such as all necessary codes for given problem), it does not help your friend to learn.
-
-With these guidelines we keep our discussion well organized and it is easy for everybody to find help and relevant discussion about specific lessons / exercises.
+With these guidelines we keep our discussion well organized and it is easy for everybody to find help and relevant discussion about specific weekly lectures, homeworks and project topics.
 
 That's it! Easy, now you know how to communicate during the course.
