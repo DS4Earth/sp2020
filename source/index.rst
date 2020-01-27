@@ -15,12 +15,12 @@ Course format
 
 This course will have two concurrent goals:  1)  introduce students to the tools of data science and basic machine learning (identifying and processing data, cleaning and preparing data for analysis, setting up problems including supervised/unsupervised learning, regression, and classification, optimization and hyperparameter analysis, and specific techniques such as random forest, gradient boosting and neural networks. And  2) introduce students to the analysis of geospatial data sets, with an introduction to satellite data products (Landsat, Sentinel, GOES, etc.), compute platforms such as Google Earth Engine and Microsoft Azure, and data frameworks such as Xarray and pandas. We will use scientific python (Jupyter Notebooks mainly) and introduce students to these tools at a basic level.
 
-Schedule
---------
+Course logistics
+----------------
 
 We will meet every Monday from 1:25-4:25 in Carolina Hall 220
 
-.. list-table:: ''
+.. list-table:: Schedule
    :widths: 5 10
    :header-rows: 1
 
@@ -100,4 +100,15 @@ We will meet every Monday from 1:25-4:25 in Carolina Hall 220
 
     course-info/course-info
     course-info/grading
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 1
+
+    lessons/L1/motivation
+    lessons/L1/overview
+    lessons/L1/course-environment-components
+    lessons/L1/slack-usage
+    notebooks/L1/intro_to_python.ipynb
+    notebooks/L1/numpy_and_matplotlib.ipynb    
     
