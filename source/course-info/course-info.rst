@@ -9,7 +9,7 @@ Course meetings
 ---------------------------
 
 - Lectures:
-   - Mondays 01:25 - 4:25, 
+   - Mondays 01:25 - 4:25, Carolina Hall 220
 - Office hours/Tutorial sessions:
    - Wednesdays from 11am-2pm (Sitterson 141)
    - Thursdays from 4pm-7pm (Sitterson 141)

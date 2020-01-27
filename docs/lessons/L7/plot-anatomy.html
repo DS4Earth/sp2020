@@ -1,0 +1,306 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Anatomy of a plot &mdash; DS4Earth sp2020 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript">
+          var DOCUMENTATION_OPTIONS = {
+              URL_ROOT:'../../',
+              VERSION:'sp2020',
+              LANGUAGE:'None',
+              COLLAPSE_INDEX:false,
+              FILE_SUFFIX:'.html',
+              HAS_SOURCE:  true,
+              SOURCELINK_SUFFIX: '.txt'
+          };
+      </script>
+        <script type="text/javascript" src="../../_static/jquery.js"></script>
+        <script type="text/javascript" src="../../_static/underscore.js"></script>
+        <script type="text/javascript" src="../../_static/doctools.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/theme_overrides.css" type="text/css" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link href="../../_static/geo-python.css" rel="stylesheet" type="text/css">
+     
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> DS4Earth
+          
+
+          
+            
+            <img src="../../_static/HY-logo-2017.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                2020
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Course information</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../course-info/course-info.html">General info</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../course-info/course-info.html#course-meetings">Course meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../course-info/course-info.html#instructor">Instructor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../course-info/course-info.html#learning-assistants">Learning Assistants</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../course-info/course-info.html#course-websites">Course websites</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../course-info/grading.html">Grading</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../course-info/grading.html#general-grading-breakdown">General grading breakdown</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption"><span class="caption-text">Lesson 1</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../L1/motivation.html">Motivation for the course</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../L1/motivation.html#effective-data-visualization">Effective data visualization</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../L1/overview.html">Lesson overview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../L1/overview.html#learning-goals">Learning goals</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../L1/course-environment-components.html">Course environment</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../L1/course-environment-components.html#jupyterlab">JupyterLab</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/course-environment-components.html#cloud-computing-environments">Cloud computing environments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/course-environment-components.html#using-your-own-computer">Using your own computer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/course-environment-components.html#git-and-github">Git and GitHub</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/course-environment-components.html#slack">Slack</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/course-environment-components.html#page-summary">Page summary</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../L1/slack-usage.html">Communicating with Slack</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../L1/slack-usage.html#accessing-the-workspace-in-slack">Accessing the workspace in Slack</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/slack-usage.html#overview-of-slack">Overview of Slack</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/slack-usage.html#basic-usage-of-slack">Basic usage of Slack</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../L1/slack-usage.html#notifying-a-user">Notifying a user</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../L1/slack-usage.html#using-threads">Using threads</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../L1/slack-usage.html#general-guidelines-for-communication">General guidelines for communication</a></li>
+</ul>
+</li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">DS4Earth</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html">Docs</a> &raquo;</li>
+        
+      <li>Anatomy of a plot</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            
+              <a href="https://github.com/DS4Earth/sp2020/blob/master//source/lessons/L7/plot-anatomy.rst" class="fa fa-github"> Edit on GitHub</a>
+            
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="anatomy-of-a-plot">
+<h1>Anatomy of a plot<a class="headerlink" href="#anatomy-of-a-plot" title="Permalink to this headline">¶</a></h1>
+<p>Before starting to plot our data it is useful if we take a look and try to understand <strong>what actually is a plot?</strong>
+We won’t go too deep into the details of different plots (as it is not the purpose of this lesson) but we rather give a short introduction to different plots that can be done with Python, and what kind of (typical) elements a plot has.</p>
+<p>There are a variety of different kinds of plots (also known as graphs, charts, diagrams, etc. - Our dear child has many names) available that have been designed to visually represent the characteristics of a dataset.
+Here is a list of several different types of plots that can be used to visualize different kinds of datasets:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Bar_chart">Bar chart</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Histogram">Histogram</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Scatter_plot">Scatter plot</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Line_chart">Line chart</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Pie_chart">Pie chart</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Box_plot">Box plot</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Violin_plot">Violin plot</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Dendrogram">Dendrogram</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Chord_diagram">Chord diagram</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Treemap">Treemap</a></li>
+<li><a class="reference external" href="https://en.wikipedia.org/wiki/Network_chart">Network chart</a></li>
+</ul>
+<p>In spite of the variety of plots, there are certain elements that are common in most of the plots (not all).
+Thus, it is useful to know at least the basic terminology since it makes it easier to find help and information from the internet when you start doing or modifying your own plot.</p>
+<p>The following figure illustrates different elements of a basic line plot.</p>
+<div class="figure align-center" id="id1">
+<a class="reference internal image-reference" href="../../_images/basic-elements-of-plot.png"><img alt="Basic elements of a plot" src="../../_images/basic-elements-of-plot.png" style="width: 800px;" /></a>
+<p class="caption"><span class="caption-text">Basic elements of a plot.</span></p>
+</div>
+<div class="section" id="common-terms-when-doing-plotting">
+<h2>Common terms when doing plotting<a class="headerlink" href="#common-terms-when-doing-plotting" title="Permalink to this headline">¶</a></h2>
+<p>These common terms may vary a little bit depending on the plotting library that you use.
+These are few typical terms used when doing plotting in Matplotlib, for example.</p>
+<ul class="simple">
+<li><strong>axis</strong> - Axis of the graph that are typically x, y and z (for 3D plots).</li>
+<li><strong>title</strong> - Title of the whole plot.</li>
+<li><strong>label</strong> - Name for to the whole axis.</li>
+<li><strong>legend</strong> - Legend for the plot.</li>
+<li><strong>tick label</strong> - Refers to the text or values that are represented on the axis.</li>
+<li><strong>symbol</strong> - Symbol for data point(s) (on a scatter plot) that can be presented with different symbols.</li>
+<li><strong>size</strong> - Size of e.g. a point on a scatter plot, also used for referring to the text sizes on a plot.</li>
+<li><strong>linestyle</strong> - The style how the line should be drawn. Can be e.g. solid or dashed.</li>
+<li><strong>linewidth</strong> - The width of a line in a plot.</li>
+<li><strong>alpha</strong> - Transparency level of a filled element in a plot (values between 0.0 (fully transparent) to 1.0 (no trasnparency)).</li>
+<li><strong>tick(s)</strong> - Refers to the tick marks on a plot.</li>
+<li><strong>annotation</strong> - Refers to the added text on a plot.</li>
+<li><strong>padding</strong> - The distance between a (axis/tick) label and the axis.</li>
+</ul>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, B. White, Department of Marine Sciences, UNC Chapel Hill
+      <span class="lastupdated">
+        Last updated on Jan 26, 2020.
+      </span>
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+    <p> <br/> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> </a></p>
+     
+
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
