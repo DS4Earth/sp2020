@@ -4,10 +4,10 @@ Course environment
 During this course, we will use different tools and applications for programming and communications:
 
 1. `JupyterLab`_ in a cloud computing environment, specifically the `ocean.pangeo.io <https://ocean.pangeo.io>`_ binderhub. This is a Jupyter hub provided by the open-source geoscience project `Pangeo <https://pangeo.io>`_. Pangeo operates two Jupyter hubs, `ocean.pangeo.io <https://ocean.pangeo.io>`_ and `hydro.pangeo.io <https://hydro.pangeo.io>`_. For this class, let's use ocean, but hydro can be a backup. 
-2. 
-3. `Git and GitHub`_ for version control and documentation
-4. `Slack`_ for communicating among course participants
-5. `Voting / polling  <#voting-and-polling>`_ for interactive questions during the lectures
+
+2. `Git and GitHub`_ for version control and documentation
+
+3. `Slack`_ for communicating among course participants
 
 
 JupyterLab

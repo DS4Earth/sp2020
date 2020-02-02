@@ -109,6 +109,6 @@ We will meet every Monday from 1:25-4:25 in Carolina Hall 220
     lessons/L1/overview
     lessons/L1/course-environment-components
     lessons/L1/slack-usage
-    ../notebooks/L1/intro_to_python.ipynb
-    ../notebooks/L1/numpy_and_matplotlib.ipynb    
+    notebooks/L1/intro_to_python.ipynb
+    notebooks/L1/numpy_and_matplotlib.ipynb    
     
