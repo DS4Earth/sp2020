@@ -11,8 +11,8 @@ in Python. The main components of this first lesson are below.
 
 1. :doc:`Overview of the course environment <course-environment-components>`
 2. :doc:`Communicating and chatting with Slack <slack-usage>`
-3. `Intro to Python tutorial <../../notebooks/L1/intro_to_python.ipynb>`_
-4. `Intro to Numpy and Matplotlib <../../notebooks/L1/numpy_and_matplotlib.ipynb>`_
+3. `Intro to Python tutorial <../../../notebooks/L1/intro_to_python.ipynb>`_
+4. `Intro to Numpy and Matplotlib <../../../notebooks/L1/numpy_and_matplotlib.ipynb>`_
 
 .. note::
 
