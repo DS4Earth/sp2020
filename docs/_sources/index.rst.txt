@@ -93,7 +93,6 @@ We will meet every Monday from 1:25-4:25 in Carolina Hall 220
      - Final group presentations
 
    
-
 .. toctree::
     :maxdepth: 2
     :caption: Course information
@@ -110,8 +109,13 @@ We will meet every Monday from 1:25-4:25 in Carolina Hall 220
     lessons/L1/motivation
     lessons/L1/course-environment-components
     lessons/L1/slack-usage
-    lessons/L1/git-basics
-    lessons/L1/intro-to-Github
-    lessons/L1/Github-classroom
     notebooks/L1/intro_to_python
-    notebooks/L1/numpy_and_matplotlib    
+    notebooks/L1/numpy_and_matplotlib 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 2
+
+    lessons/L2/overview
+    lessons/L2/resources
+    
