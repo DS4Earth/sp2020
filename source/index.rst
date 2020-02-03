@@ -103,13 +103,15 @@ We will meet every Monday from 1:25-4:25 in Carolina Hall 220
     
 .. toctree::
     :maxdepth: 2
-    :caption: Lesson 1
+    :caption: Week 1
 
     lessons/L1/overview
     lessons/L1/resources
     lessons/L1/motivation
     lessons/L1/course-environment-components
     lessons/L1/slack-usage
+    lessons/L1/git-basics
+    lessons/L1/intro-to-Github
+    lessons/L1/Github-classroom
     notebooks/L1/intro_to_python
-    notebooks/L1/numpy_and_matplotlib
-    
+    notebooks/L1/numpy_and_matplotlib    
