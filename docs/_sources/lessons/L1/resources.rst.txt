@@ -1,0 +1,4 @@
+Week 1 Resources
+===============
+
+Links to the example Jupyter Notebooks and lecture slides for week 1 can be found `here <https://github.com/DS4Earth/sp2020/tree/master/source/notebooks/L1>`__. 
